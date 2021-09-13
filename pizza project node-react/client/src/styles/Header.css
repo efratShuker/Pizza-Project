@@ -1,0 +1,42 @@
+.logo{
+    height:10vh;
+    width: auto;
+    margin: 2vh;
+}
+
+.header{
+    background-color: white;
+    border-bottom: black solid 1vh;
+}
+
+.header-bottom{
+    background-color: #f5391e;
+    height: 0.25vh;
+}
+
+
+#finish-order{
+height: 8vh;
+    width: 10vh;
+    margin: 3vh 1vh;
+}
+
+.payment-amount{
+    height: 8vh;
+    min-width: 100%;
+    margin: 3vh 1vh;
+    border: solid rgb(231, 231, 231) 1px;
+    padding-top: 2vh !important;
+    font-size: 2.5vh;
+}
+
+.payment-text{
+    font-size: 3vh;
+    margin-top: 5vh;
+}
+
+.title{
+    color:#f5391e;
+    font-size: 6vh;
+    margin: 3vh 0 2vh 0;
+}

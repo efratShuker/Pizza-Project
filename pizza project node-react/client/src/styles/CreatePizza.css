@@ -1,0 +1,16 @@
+#pizza-count-input:focus{
+    color: #495057;
+    background-color: #fff;
+    border-color: #ff0000;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgb(255 0 0 / 26%);
+}
+
+.card{
+    max-width: 80vw;
+    margin: 8vh 10vw 8vh 10vw;
+    padding:5vh 7vw 5vh 7vw;
+    overflow-y: scroll;
+    max-height: 70vh;
+    background-color: #ffffff;
+}

@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  width: 100%;
+  max-height: 100vh;
+}
+
+
+
+.success-title{
+  color:#f5391e;
+    font-size: 4vh;
+    margin: 45vh auto auto auto;
+}

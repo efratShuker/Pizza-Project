@@ -1,0 +1,32 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+
+body {
+  background-color: black;
+  /* background-color: rgb(241, 11, 22); */
+  /* background-color: rgb(69, 149, 228); */
+  /* background-image: linear-gradient(to bottom right, rgb(68, 157, 240),lightskyblue, lightblue); */
+  max-height: 100vh;
+  direction: rtl;
+  text-align: center;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.error-message{
+  display: block;
+  color: red;
+}
+
+
+.btn.btn-danger{
+  background-color: #f5391e;
+}
